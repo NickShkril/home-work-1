@@ -103,7 +103,7 @@ package ru.skypro;
                         int krisOldWagesPerYear = krisWages * 12;
                         double krisNewWagesPerYear = krisWagesNew * 12;
                         System.out.println("Теперь Кристина получает = " + krisWagesNew + " Годовой доход вырос на = " + (krisNewWagesPerYear - krisOldWagesPerYear));
-
+                        //done
 
                     }
                 }
