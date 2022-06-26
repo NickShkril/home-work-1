@@ -1,9 +1,9 @@
 package ru.skypro;
 
 public class Main {
-
+// 1st homework
     public static void main(String[] args) {
-        // 1st
+        // 1st excerises
         byte a = 3;
         System.out.println("byte = " + a);
         short b = 3333;
@@ -22,7 +22,7 @@ public class Main {
         System.out.println("boolean = " + true);
 
 
-        // 2nd
+        // 2nd excerises
         float firstBoxerWeight = 78.2f;
         System.out.println("вес первого боксера " + firstBoxerWeight + " кг");
         float secondBoxerWeight = 82.7f;
@@ -33,7 +33,7 @@ public class Main {
         System.out.println("разница в весе " + differenceInWeight + " кг");
 
 
-        //3rd
+        //3rd excerises
         byte bananasAmount = 5;
         int bananasGr = bananasAmount * 80;
         int bananasWeight = bananasGr;
@@ -61,7 +61,7 @@ public class Main {
         System.out.println("Вес коктеля в килограммах = " + coctailWeightInKg);
 
 
-        //4th
+        //4th excerises
 
         byte menWeightTarget = 7;
         int oneKiloPerGr = 1000;
@@ -75,7 +75,7 @@ public class Main {
         int averageDaysForWeightLoss = (firstWeightLossMethod + secondWeightLossMethod) / 2;
         System.out.println("Среднее количество дней для похудения = " + averageDaysForWeightLoss);
 
-        //5th
+        //5th excerises
 
         int mashaWages = 67_760;
         double mashaNewWagesDifference = 67_760 * 0.1;
